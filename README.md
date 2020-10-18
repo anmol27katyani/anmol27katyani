@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**anmol27katyani/anmol27katyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ <h2 align="center">Welcome to my Profile</h2>
+</p>
 
-Here are some ideas to get you started:
+### Hi there 👋 I am [Anmol Mishra](https://github.com/anmol27katyani)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Automating the stuff with python**
+- 🌱 I’m currently learning **electron and node**
+- 💬 Ask me about Python, Video Games and research ares
+- 📫 How to reach me: well, it's a puzzle for you 
+- ⚡ Fact: I ran 1000km in 2019
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol27katyani&layout=compact" />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=anmol27katyani.anmol27katyani)
+
+
