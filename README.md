@@ -6,7 +6,7 @@
 ### Hi there 👋 I am [Anmol Mishra](https://github.com/anmol27katyani)
 
 - 🔭 I’m currently working on **Automating the stuff with python**
-- 🌱 I’m currently learning **electron and node**
+- 🌱 I’m currently learning **kotlin and java**
 - 💬 Ask me about Python, Video Games and research ares
 - 📫 How to reach me: well, it's a puzzle for you 
 - ⚡ Fact: I ran 1000km in 2019
