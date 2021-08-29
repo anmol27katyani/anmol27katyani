@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning **kotlin and java**
 - 💬 Ask me about Python, Video Games and research ares
 - 📫 How to reach me: well, it's a puzzle for you 
-- ⚡ Fact: I ran 1000km in 2019
-
+- ⚡ Fact: I ran 1000km in 2019, 2020
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol27katyani&layout=compact" />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anmol27katyani.anmol27katyani)
